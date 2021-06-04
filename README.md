@@ -7,3 +7,6 @@ Data-Driven advice and insights for a prospective AirBnB host in Seattle using m
 - How can we as AirBnB hosts maximize our annual revenue in Seattle? 
 - What is the optimal price per night for a given property? How does this change with time of year? 
 
+**Results:**
+A jupyter notebook is included with details of carrying out EDA and developing a ML prediction model (based on a light gradient boosted decision tree) which takes property and host details as an input and returns the expected booking rate, suggested pricing stratergy and expected annual revenue of said property.  
+
